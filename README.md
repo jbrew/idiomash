@@ -1,4 +1,4 @@
-********* IDIOMASH *********
+# IDIOMASH
 
 Create idioms by mashing up old ones! Nothing new under the weather.
 
